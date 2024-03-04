@@ -21,6 +21,3 @@ Tecnologías utilizadas.
 Enlaces a la documentación y el código fuente.
 Sobre MaT
 ¡Hola! Soy MaT, un apasionado desarrollador de software con experiencia en la creación de aplicaciones web innovadoras y soluciones escalables. Mi enfoque se centra en la mejora continua y la adaptación a las últimas tendencias tecnológicas.
-
-LinkedIn: MaT en LinkedIn (enlace a tu perfil de LinkedIn)
-Correo Electrónico: mat.dev@example.com
